@@ -1,0 +1,23 @@
+.attribution { 
+font-size: 11px; text-align: center; 
+}
+
+.attribution a { 
+color: hsl(228, 45%, 44%); 
+}
+
+ 
+
+label {
+
+    color:rgb(215, 215, 250);
+    border: 10px;
+    display: inline-block;
+}
+
+.data {
+
+    color: aquamarine;
+    display: inline-block;
+
+}
