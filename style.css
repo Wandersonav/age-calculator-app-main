@@ -1,3 +1,22 @@
+@import url('https://fonts.googleapis.com/css2? family=Poppins:wght@200&display=swap');
+
+:root{
+
+    /* ### Neutral */
+    --White: hsl(0, 0%, 100%);
+    --Off-white: hsl(0, 0%, 94%);
+    --Light-grey: hsl(0, 0%, 86%);
+    --Smokey-grey: hsl(0, 1%, 44%);
+    --Off-black: hsl(0, 0%, 8%);
+
+     /* ### Primary*/
+
+     --Purple: hsl(259, 100%, 65%);
+     --Light-red: hsl(0, 100%, 67%);
+
+}
+
+
 .attribution { 
 font-size: 11px; text-align: center; 
 }
@@ -13,11 +32,18 @@ label {
     color:rgb(215, 215, 250);
     border: 10px;
     display: inline-block;
+    
 }
 
 .data {
 
-    color: aquamarine;
-    display: inline-block;
+     display: inline-block;
+    width: 90px;
+    text-align: right;
 
+}
+
+#enviar {
+
+    background-image: url();
 }
